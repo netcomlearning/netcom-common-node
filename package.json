@@ -14,7 +14,7 @@
   "license": "ISC",
   "homepage": "https://bitbucket.org/mhk107/netcom-common#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "mssql": "^6.2.0"
   }
 }
